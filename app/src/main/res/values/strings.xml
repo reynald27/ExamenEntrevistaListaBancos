@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaBancos</string>
+    <string name="text_view_header_title">Listado de bancos</string>
+    <string name="text_view_bank_name">Nombre de banco</string>
+    <string name="text_view_description">Descripcion</string>
+    <string name="text_view_age">Años de antiguedad</string>
+</resources>
